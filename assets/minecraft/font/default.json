@@ -1,0 +1,183 @@
+{
+    "providers": [
+        {
+            "type":"ttf",
+            "file":"negative_spaces.ttf",
+            "shift":[0.0,0.0],
+            "size":10.0,
+            "oversample":1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/power.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/health.png",
+            "ascent": 14,
+            "height": 20,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/resistance.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/screen/chat.png",
+            "ascent": 92,
+            "height": 200,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/line.png",
+            "ascent": 65,
+            "height": 128,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/mp.png",
+            "ascent": -15,
+            "height": 16,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/maxmp.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/health_plus.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/maxmp_plus.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/speed.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/int.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/money.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/fire.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/water.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/ground.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/wind.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/thunder.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": [
+                "\uE016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/light.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": [
+                "\uE017"
+            ]
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icon/dark.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": [
+                "\uE018"
+            ]
+        }
+    ]
+}

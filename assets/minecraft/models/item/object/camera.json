@@ -1,0 +1,77 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/object/camera",
+		"particle": "item/object/camera"
+	},
+	"elements": [
+		{
+			"from": [-1.13653, 9.91891, 5.999],
+			"to": [10.86347, 13.91891, 10.001],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8.06347, 9.91891, 6]},
+			"faces": {
+				"north": {"uv": [2, 2, 8, 4], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#0"},
+				"south": {"uv": [10, 2, 16, 4], "texture": "#0"},
+				"west": {"uv": [8, 2, 10, 4], "texture": "#0"},
+				"up": {"uv": [8, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [14, 0, 8, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.46347, 4.31891, 6],
+			"to": [9.46347, 11.11891, 10],
+			"rotation": {"angle": 45, "axis": "z", "origin": [8.06347, 9.91891, 6]},
+			"faces": {
+				"north": {"uv": [9, 6.5, 11, 9.5], "texture": "#0"},
+				"east": {"uv": [7, 6.5, 9, 9.5], "texture": "#0"},
+				"south": {"uv": [13, 6.5, 15, 9.5], "texture": "#0"},
+				"west": {"uv": [11, 6.5, 13, 9.5], "texture": "#0"},
+				"up": {"uv": [11, 6.5, 9, 4.5], "texture": "#0"},
+				"down": {"uv": [13, 4.5, 11, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9.86347, 0.71891, 4.8],
+			"to": [11.06347, 10.31891, 11.2],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8.06347, 9.91891, 6]},
+			"faces": {
+				"north": {"uv": [3, 7, 3.5, 11.5], "texture": "#0"},
+				"east": {"uv": [0, 7, 3, 11.5], "texture": "#0"},
+				"south": {"uv": [6.5, 7, 7, 11.5], "texture": "#0"},
+				"west": {"uv": [3.5, 7, 6.5, 11.5], "texture": "#0"},
+				"up": {"uv": [3.5, 7, 3, 4], "texture": "#0"},
+				"down": {"uv": [4, 4, 3.5, 7], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [2, 0, 0]
+		},
+		"gui": {
+			"rotation": [174.42, 57.43, 178.32],
+			"translation": [0, 0.75, -5.25]
+		},
+		"head": {
+			"rotation": [49.75, -90, 0],
+			"translation": [0, -0.75, 0],
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 4.75, -5.25],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

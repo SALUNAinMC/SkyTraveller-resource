@@ -1,0 +1,38 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/yellow_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/accessories/ruby_ring"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "item/accessories/magic_book"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "item/accessories/rolling_stone"
+        },
+        {
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "item/accessories/orge_legcuffs"
+		},
+        {
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "item/accessories/power_stone"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/human/soldier/soldier_a",
+		"particle": "item/human/soldier/soldier_a"
+	},
+	"elements": [
+		{
+			"from": [6, 5, 6],
+			"to": [10, 11, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 6.5, 7]},
+			"faces": {
+				"north": {"uv": [1, 6.5, 2, 8], "texture": "#0"},
+				"east": {"uv": [0, 6.5, 1, 8], "texture": "#0"},
+				"south": {"uv": [3, 6.5, 4, 8], "texture": "#0"},
+				"west": {"uv": [2, 6.5, 3, 8], "texture": "#0"},
+				"up": {"uv": [2, 5, 1, 4], "texture": "#0"},
+				"down": {"uv": [3, 4, 2, 5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -9.25, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

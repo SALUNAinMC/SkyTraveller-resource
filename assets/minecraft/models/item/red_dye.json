@@ -1,0 +1,44 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/red_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/object/rudder"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "item/object/canon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "item/object/antenna"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "item/object/memorys_book/back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "item/object/memorys_book/right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "item/object/memorys_book/left"
+		}
+	]
+}

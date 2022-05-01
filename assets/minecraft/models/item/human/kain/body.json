@@ -1,0 +1,61 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/human/kain/kain",
+		"1": "item/human/kain/kain_layer",
+		"particle": "item/human/kain/kain"
+	},
+	"elements": [
+		{
+			"from": [6, 3, 8],
+			"to": [10, 9, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 6, 9]},
+			"faces": {
+				"north": {"uv": [8, 1, 10, 4], "texture": "#0"},
+				"east": {"uv": [10, 1, 11, 4], "texture": "#0"},
+				"south": {"uv": [11, 1, 13, 4], "texture": "#0"},
+				"west": {"uv": [13, 1, 14, 4], "texture": "#0"},
+				"up": {"uv": [10, 0, 12, 1], "texture": "#0"},
+				"down": {"uv": [12, 0, 14, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.9, 2.9, 7.9],
+			"to": [10.1, 9.05, 10.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 5.27776, 7.35702]},
+			"faces": {
+				"north": {"uv": [0, 1.25, 2.25, 4.5], "texture": "#1"},
+				"east": {"uv": [2.25, 1.25, 3.5, 4.5], "texture": "#1"},
+				"south": {"uv": [3.5, 1.25, 5.75, 4.5], "texture": "#1"},
+				"west": {"uv": [5.75, 1.25, 7, 4.5], "texture": "#1"},
+				"up": {"uv": [2.25, 0, 4.5, 1.25], "texture": "#1"},
+				"down": {"uv": [4.5, 0, 6.75, 1.25], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [3, 1, 1]
+		},
+		"head": {
+			"translation": [0, 10.5, -3],
+			"scale": [3, 3, 3]
+		}
+	},
+	"groups": [
+		{
+			"name": "up",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				0,
+				{
+					"name": "layer",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [1]
+				}
+			]
+		}
+	]
+}

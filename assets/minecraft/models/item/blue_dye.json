@@ -1,0 +1,32 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/blue_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/weapon/knife/tac_knife"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "item/weapon/knife/katuo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "item/weapon/sword/katana"
+        },
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "item/weapon/axe/cross_execution_sword"
+		}
+	]
+}

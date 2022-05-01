@@ -1,0 +1,74 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/flint"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/enemy/ninja/ninja_red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "item/enemy/ninja/ninja_red_as"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "item/enemy/ninja/ninja_red_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "item/enemy/ninja/empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "item/enemy/ninja/ninja_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "item/enemy/ninja/ninja_blue_as"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "item/enemy/ninja/ninja_blue_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30001
+			},
+			"model": "item/enemy/ninja/ninja_red_dm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30003
+			},
+			"model": "item/enemy/ninja/ninja_red_arm_dm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30005
+			},
+			"model": "item/enemy/ninja/ninja_blue_dm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30007
+			},
+			"model": "item/enemy/ninja/ninja_blue_arm_dm"
+		}
+	]
+}

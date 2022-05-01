@@ -1,0 +1,22 @@
+{
+	"custom.crit": {
+		"sounds": [
+			{"name": "custom/crit/crit1","volume": 1.0,"pitch": 1.0},
+			{"name": "custom/crit/crit2","volume": 1.0,"pitch": 1.0},
+			{"name": "custom/crit/crit3","volume": 1.0,"pitch": 1.0}
+		]
+	},
+	"custom.strong": {
+		"sounds": [
+			{"name": "custom/strong/strong1","volume": 1.0,"pitch": 1.0},
+			{"name": "custom/strong/strong2","volume": 1.0,"pitch": 1.0},
+			{"name": "custom/strong/strong3","volume": 1.0,"pitch": 1.0},
+			{"name": "custom/strong/strong4","volume": 1.0,"pitch": 1.0},
+			{"name": "custom/strong/strong5","volume": 1.0,"pitch": 1.0},
+			{"name": "custom/strong/strong6","volume": 1.0,"pitch": 1.0}
+		]
+	},
+	"custom.levelup": {
+		"sounds": [{"name": "custom/levelup","volume": 1.0,"pitch": 1.0}]
+	}
+}

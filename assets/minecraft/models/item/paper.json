@@ -1,0 +1,68 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/paper"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/other/menu"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "item/other/accessories"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "item/other/back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "item/other/status"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "item/other/armor"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "item/other/achievements"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "item/other/snow_drop"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "item/other/accessories_slot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "item/other/armor_slot_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "item/other/armor_slot_left"
+		}
+	]
+}

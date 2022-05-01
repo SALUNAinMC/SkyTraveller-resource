@@ -1,0 +1,128 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/scute"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/human/kain/right_leg_u"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "item/human/kain/left_leg_u"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "item/human/kain/right_leg_d"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "item/human/kain/left_leg_d"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "item/human/kain/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "item/human/kain/right_arm_u"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "item/human/kain/left_arm_u"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "item/human/kain/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "item/human/kain/right_arm_d"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "item/human/kain/left_arm_d"
+		},
+        {
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "item/human/soldier/soldier_a/right_leg_up"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "item/human/soldier/soldier_a/left_leg_up"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "item/human/soldier/soldier_a/right_leg_down"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "item/human/soldier/soldier_a/left_leg_down"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "item/human/soldier/soldier_a/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "item/human/soldier/soldier_a/right_arm_up"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "item/human/soldier/soldier_a/left_arm_up"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "item/human/soldier/soldier_a/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "item/human/soldier/soldier_a/right_arm_down"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "item/human/soldier/soldier_a/left_arm_down"
+		}
+	]
+}
