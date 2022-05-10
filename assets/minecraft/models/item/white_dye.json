@@ -153,6 +153,12 @@
 				"custom_model_data": 25
 			},
 			"model": "item/weapon/other/torofu/model_anim/10"
-        }
+        },
+		{
+			"predicate": {
+				"custom_model_data": 26
+			},
+			"model": "item/magic/silver_bullet/dirt_bullet"
+		}
 	]
 }

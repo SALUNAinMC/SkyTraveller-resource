@@ -20,7 +20,13 @@
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "item/magic/big_kamikaze/item" 
+			"model": "item/magic/big_kamikaze/item"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "item/magic/silver_bullet/item"
 		}
 	]
 }
