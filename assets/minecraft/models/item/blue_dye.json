@@ -21,12 +21,18 @@
 				"custom_model_data": 3
 			},
 			"model": "item/weapon/sword/katana"
-        },
+                },
 		{
 			"predicate": {
 				"custom_model_data": 4
 			},
 			"model": "item/weapon/axe/cross_execution_sword"
+	        },
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "item/weapon/knuckle/american_sack"
 		}
 	]
 }
