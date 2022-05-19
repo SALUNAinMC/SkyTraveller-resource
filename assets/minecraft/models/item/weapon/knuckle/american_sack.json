@@ -75,6 +75,30 @@
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, -0.5, 1.75]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -0.5, 1.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [22.75, 18.75, 0],
+			"translation": [1.75, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [22.75, 18.75, 0],
+			"translation": [1.75, 0, 0]
+		},
+		"ground": {
+			"scale": [1.32, 1.32, 1.32]
+		},
+		"gui": {
+			"rotation": [63.87, -41.88, 78.07],
+			"translation": [-4, 1.5, 0],
+			"scale": [2.77, 2.77, 2.77]
+		},
+		"fixed": {
+			"rotation": [90, 45, -90],
+			"translation": [4.25, 2, 0],
+			"scale": [2.87, 2.87, 2.87]
 		}
 	}
 }
