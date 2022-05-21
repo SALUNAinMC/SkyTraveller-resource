@@ -36,7 +36,7 @@
 		},
         {
 			"predicate": {
-				"custom_model_data": 5
+				"custom_model_data": 6
 			},
 			"model": "item/accessories/diamond_ring"
 		}
