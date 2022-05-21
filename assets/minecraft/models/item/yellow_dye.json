@@ -33,6 +33,12 @@
 				"custom_model_data": 5
 			},
 			"model": "item/accessories/power_stone"
+		},
+        {
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "item/accessories/diamond_ring"
 		}
 	]
 }
