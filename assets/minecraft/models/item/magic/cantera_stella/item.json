@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/magic/cantera_stella/item",
-		"1": "item/magic/cantera_stella/item",
+		"1": "item/magic/cantera_stella/core",
 		"particle": "item/magic/cantera_stella/item"
 	},
 	"elements": [
