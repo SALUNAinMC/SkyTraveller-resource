@@ -78,5 +78,11 @@
 				"down": {"uv": [1, 0, 0.875, 0.125], "texture": "#0"}
 			}
 		}
-	]
+	],
+	"display": {
+		"fixed": {
+			"rotation": [90, 0, -180],
+			"translation": [0, 0, -7]
+		}
+	}
 }
