@@ -82,7 +82,8 @@
 	"display": {
 		"fixed": {
 			"rotation": [90, 0, -180],
-			"translation": [0, 0, -7]
+			"translation": [0, -13, -15.25],
+			"scale": [2, 2, 2]
 		}
 	}
 }
