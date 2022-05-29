@@ -39,6 +39,12 @@
 				"custom_model_data": 6
 			},
 			"model": "item/object/memorys_book/left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "item/object/radio"
 		}
 	]
 }
