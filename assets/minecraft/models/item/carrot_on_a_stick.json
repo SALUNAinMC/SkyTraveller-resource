@@ -45,6 +45,12 @@
 				"custom_model_data": 7
 			},
 			"model": "item/weapon/sword/rise_moon_sword"
-        }
+        },
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "item/weapon/sword/rise_moon_sword_el_1"
+		}
 	]
 }
