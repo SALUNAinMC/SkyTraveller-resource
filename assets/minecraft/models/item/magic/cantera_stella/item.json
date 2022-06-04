@@ -994,12 +994,12 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -13.75, 0],
-			"translation": [10.5, 1.25, 1.5],
+			"translation": [10.5, -3.25, 1.5],
 			"scale": [0.3, 0.3, 0.3]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, -13.75, 0],
-			"translation": [0.75, 1.25, 1.5],
+			"translation": [10.5, -3.25, 1.5],
 			"scale": [0.3, 0.3, 0.3]
 		},
 		"ground": {
