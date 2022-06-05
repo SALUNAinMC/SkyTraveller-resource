@@ -1,6 +1,13 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-	  "layer0": "minecraft:item/item/bpm"
+		"layer0": "item/item/bpm"
+	},
+	"display": {
+		"head": {
+			"translation": [0, -23.25, 0],
+			"scale": [1, 1, 4]
+		}
 	}
 }
