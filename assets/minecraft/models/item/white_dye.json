@@ -159,6 +159,42 @@
 				"custom_model_data": 26
 			},
 			"model": "item/magic/silver_bullet/dirt_bullet"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 27
+			},
+			"model": "item/magic/checkmate/pawn"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 28
+			},
+			"model": "item/magic/checkmate/rook"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 29
+			},
+			"model": "item/magic/checkmate/bishop"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "item/magic/checkmate/knight"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 31
+			},
+			"model": "item/magic/checkmate/queen"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "item/magic/checkmate/king"
 		}
 	]
 }
