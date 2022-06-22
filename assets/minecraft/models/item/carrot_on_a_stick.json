@@ -57,6 +57,12 @@
 				"custom_model_data": 9
 			},
 			"model": "item/item/bpm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "item/weapon/gauntlet/pile_basket_hand"
 		}
 	]
 }
