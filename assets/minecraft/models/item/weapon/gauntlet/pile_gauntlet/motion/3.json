@@ -2,8 +2,8 @@
     "parent": "item/weapon/gauntlet/pile_basket_hand",
 	"display": {
 		"firstperson_righthand": {
-			"rotation": [37.5739, 16.6189, 44.4548],
-			"translation": [0.5773, 11.7262, 1.3066]
+			"rotation": [18.3514, 10.8109, 25.4963],
+			"translation": [-2.2277, 12.0562, 1.3891]
 		}
 	}
 }

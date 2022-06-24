@@ -158,7 +158,127 @@
 			"predicate": {
 				"custom_model_data": 26
 			},
-			"model": "item/magic/silver_bullet/dirt_bullet"
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 27
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 28
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 29
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 31
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 33
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 35
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 38
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 39
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 40
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 41
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 42
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 43
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 44
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 45
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 46
+			},
+			"model": "item/weapon/gauntlet/pile_gauntlet/motion/20"
 		}
 	]
 }
