@@ -8,61 +8,13 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "item/weapon/knife/bank_knife"
+			"model": "item/weapon/knife/tactical_knife/1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "item/weapon/other/torofu/axe"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 3
-			},
-			"model": "item/weapon/other/torofu/scythe"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 4
-			},
-			"model": "item/item/dice_bomb"
-		},
-        {
-			"predicate": {
-				"custom_model_data": 5
-			},
-			"model": "item/weapon/axe/cross_execution_sword"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 6
-			},
-			"model": "item/weapon/sword/katana"
-        },
-		{
-			"predicate": {
-				"custom_model_data": 7
-			},
-			"model": "item/weapon/sword/rise_moon_sword"
-        },
-		{
-			"predicate": {
-				"custom_model_data": 8
-			},
-			"model": "item/weapon/sword/rise_moon_sword_el_1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 9
-			},
-			"model": "item/item/bpm"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 10
-			},
-			"model": "item/weapon/gauntlet/pile_basket_hand"
+			"model": "item/weapon/knife/tactical_knife/2"
 		}
 	]
 }
