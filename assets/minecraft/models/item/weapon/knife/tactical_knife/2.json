@@ -18,9 +18,8 @@
 			"translation": [2.75, 1, -1.25]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-51.2, 29.06, -60.77],
-			"translation": [2.75, 1, -1.25],
-			"scale": [-1, 1, 1]
+			"rotation": [-51, 29, -150],
+			"translation": [3, 0.75, -1.25]
 		}
 	}
 }
