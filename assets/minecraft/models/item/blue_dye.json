@@ -6,18 +6,6 @@
 	"overrides": [
 		{
 			"predicate": {
-				"custom_model_data": 1
-			},
-			"model": "item/weapon/knife/tactical_knife"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 2
-			},
-			"model": "item/weapon/knife/katuo"
-		},
-		{
-			"predicate": {
 				"custom_model_data": 4
 			},
 			"model": "item/weapon/axe/cross_execution_sword"
