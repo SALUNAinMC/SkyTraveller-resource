@@ -8,6 +8,15 @@
             "chars": [
                 "\uE000"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/weapon/knife/bank_knife.png",
+            "ascent": 16,
+            "height": 64,
+            "chars": [
+                "\uE001"
+            ]
         }
     ]
 }
