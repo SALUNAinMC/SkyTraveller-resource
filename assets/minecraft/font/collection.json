@@ -17,6 +17,15 @@
             "chars": [
                 "\uE001"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/weapon/knife/katuo.png",
+            "ascent": 16,
+            "height": 64,
+            "chars": [
+                "\uE002"
+            ]
         }
     ]
 }
