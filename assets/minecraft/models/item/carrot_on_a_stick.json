@@ -9,18 +9,6 @@
 				"custom_model_data": 1
 			},
 			"model": "item/weapon/knife/tactical_knife"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 2
-			},
-			"model": "item/weapon/knife/bank_knife"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 3
-			},
-			"model": "item/weapon/knife/katuo"
 		}
 	]
 }
